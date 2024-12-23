@@ -2,6 +2,6 @@
 
 Leanring project
 
-# Methodolody
+## Methodolody
 
 Will be learning too
